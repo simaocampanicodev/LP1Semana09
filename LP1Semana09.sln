@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom", "AnimalKingdom\AnimalKingdom.csproj", "{5D6E75ED-1059-41C3-8816-D2062544AC0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManager1", "PlayerManager1\PlayerManager1.csproj", "{9E82BE34-5A30-4FD9-B41E-DFF6EE46679A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManager2", "PlayerManager2\PlayerManager2.csproj", "{F8EE7001-3DC9-406B-9ADD-4821213AA8C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{5D6E75ED-1059-41C3-8816-D2062544AC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D6E75ED-1059-41C3-8816-D2062544AC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D6E75ED-1059-41C3-8816-D2062544AC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E82BE34-5A30-4FD9-B41E-DFF6EE46679A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E82BE34-5A30-4FD9-B41E-DFF6EE46679A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E82BE34-5A30-4FD9-B41E-DFF6EE46679A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E82BE34-5A30-4FD9-B41E-DFF6EE46679A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EE7001-3DC9-406B-9ADD-4821213AA8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EE7001-3DC9-406B-9ADD-4821213AA8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EE7001-3DC9-406B-9ADD-4821213AA8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EE7001-3DC9-406B-9ADD-4821213AA8C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
